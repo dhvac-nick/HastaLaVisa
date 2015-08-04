@@ -26,7 +26,7 @@ int main(void)
 		sleep(2);
 	}
 	*/
-	
+		printf("Test 1 \n");
 	
 		strcat(CurrentPath,"/tmp/ttt_system");
 		/* Open IP File */
